@@ -1,1 +1,1 @@
-export const DB_MERN = 'videotube';
+export const DB_MERN = 'mern';
